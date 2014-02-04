@@ -1,5 +1,5 @@
 tinyMCE.addI18n('es', {
-  'Insert an image from your computer': 'Insertar una imagen desde su computadora',
+  'Insert an image from your computer': 'Insert an image from your computer',
   'Insert image': 'Insertar una imagen',
   'Choose an image': "Elija una imagen",
   'You must choose a file': "Debe elegir un archivo",
